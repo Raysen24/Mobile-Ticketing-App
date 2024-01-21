@@ -29,11 +29,11 @@ public class A0Splash extends javax.swing.JFrame {
         this.setLocationRelativeTo(null);
         con = db.mycon();
         time();
-        scaleImage(jLogo,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\Logo_Hooray.png");
-        scaleImage(jWifi,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\Wifi_Hooray.png");
-        scaleImage(jCloud,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\Cloud_Hooray.png");
-        scaleImage(jSplashBox,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\SplashBox_Hooray.png");
-        scaleImage(jSignUpButton,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\GetStartButton.png");
+//        scaleImage(jLogo,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\Logo_Hooray.png");
+//        scaleImage(jWifi,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\Wifi_Hooray.png");
+//        scaleImage(jCloud,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\Cloud_Hooray.png");
+//        scaleImage(jSplashBox,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\SplashBox_Hooray.png");
+//        scaleImage(jSignUpButton,"D:\\University\\SEMESTER 1\\Introduction To Programming\\Mr. Samuel\\NetBeansProject\\FinalProjectSemester2\\src\\pictures\\GetStartButton.png");
     }
     
     public void time(){
